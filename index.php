@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // from th
+        // from th slave
         ?>
     </body>
 </html>

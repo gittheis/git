@@ -13,12 +13,7 @@ and open the template in the editor.
         <?php
         // from dev new one
         // from th
-        ?>
-
-    </head>
-    <body>
-        <?php
-        // from th slave
+        //adasdasdd
         ?>
         cxcvxcvcxcvasdasddsfsfs
     </body>

@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // from dev
+        // from dev new one
         ?>
     </body>
 </html>

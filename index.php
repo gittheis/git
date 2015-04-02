@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // from dev new one
+        // from th
         ?>
     </body>
 </html>

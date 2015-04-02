@@ -14,5 +14,12 @@ and open the template in the editor.
         // from dev new one
         // from th
         ?>
+
+    </head>
+    <body>
+        <?php
+        // from th slave
+        ?>
+        cxcvxcvcxcvasdasddsfsfs
     </body>
 </html>
